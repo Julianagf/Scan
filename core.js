@@ -1,0 +1,1 @@
+!function(e){"use strict";e(window).on("load resize",(function(){var o=window.outerWidth,s=e(".site-header"),i=s.hasClass("mobile");o<1008?i||(s.addClass("mobile"),e("body").addClass("mobile")):i&&(s.removeClass("mobile"),e("body").removeClass("mobile"))}))}(jQuery);
